@@ -45,7 +45,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {year} Joshua Bromley and Bill Mao. This work is licensed under {license}. Made with love by [Bill Mao](https://billmao.net/).'
     license:
       enable: true
       allow_derivatives: false

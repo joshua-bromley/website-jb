@@ -36,6 +36,7 @@ module "site" {
   account_id = var.account_id
   repo_name = var.repo_name
   project_name = var.project_name
+  cloudflare_zone_id = var.cloudflare_zone_id
 }
 
 
