@@ -113,4 +113,5 @@ highlight_name: true
 ---
 
 Joshua Bromley is totally an astrophysicist. Totally. He is actually is one. No Joke. And not just theoretically one, but really one.
+Also Josh stop procrastinating and finish this site, i'm immortalizing my dissapointment in a github commit - Bill
 {style="text-align: justify;"}
