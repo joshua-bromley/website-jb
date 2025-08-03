@@ -1,9 +1,9 @@
 ---
 title: Chaotic Winds from a Dying World
-summary: An example of using the in-built project page.
+summary: A simple 1-D model for chaotically disintegrating planets
 tags:
   
-date: '2016-04-27T00:00:00Z'
+date: '2023-03-21T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
