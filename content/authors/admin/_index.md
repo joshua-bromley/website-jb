@@ -17,26 +17,29 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Theoretically A Theoretical Astrophysicist
+role: Graduate Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: University of Toronto
-    url: https://www.utoronto.ca/
+  - name: David A Dunlap Department of Astronomy and Astrophysics, University of Toronto
+    url: https://www.astro.utoronto.ca/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include nonlinear dynamics, chaos, disintegrating planets, planetary rings and satellites.
 
 # Interests to show in About widget
 interests:
-  - Astrophysics
+  - Planet Formation
+  - Cold Planet Demographics
+  - Disks and Rings
+  - Dynamics
 
 # Education to show in About widget
 education:
   courses:
     - course: BA in Astronomy and Physics
       institution: UC Berkeley
-      year: 2022
+      year: 2024
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -86,21 +89,12 @@ social:
   - icon: envelope
     icon_pack: fas
     link: '/#contact'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-    label: Follow me on Twitter
-    display:
-      header: true
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://ui.adsabs.harvard.edu/search/p_=0&q=orcid%3A0009-0002-1462-1513&sort=date%20desc%2C%20bibcode%20desc
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://github.com/joshua-bromley
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
@@ -111,7 +105,8 @@ social:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-
-Joshua Bromley is totally an astrophysicist. Totally. He is actually is one. No Joke. And not just theoretically one, but really one.
-Also Josh stop procrastinating and finish this site, i'm immortalizing my dissapointment in a github commit - Bill
+Hello! I am a second year graduate student in the Department of Astronomy and Astrophysics as the University of Toronto. I graduated from UC Berkeley in 2024 with a B.A. in Physics and Astronomy.
+My research interests broadly covers the solar system in the context of all exoplanetary systems. This includes the formation, evolution and present state of the solar system in comparison to the many exoplanetry systems that have been observed. I work with Prof. Yanqin Wu on circumbinary disks and prof. Marta L. Bryan on gas giant demographics.
+Outside of research, I enjoy climbing (like many other astronomers) and playing Magic the Gathering.
 {style="text-align: justify;"}
+
